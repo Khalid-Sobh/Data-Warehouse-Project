@@ -13,7 +13,7 @@ Parameters:
     None. 
 	  This stored procedure does not accept any parameters or return any values.
 
-Usage Example:
+To execute the procedure run:
     EXEC Silver.load_silver;
 ===============================================================================
 */
